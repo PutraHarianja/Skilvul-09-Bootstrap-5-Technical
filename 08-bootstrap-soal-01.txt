@@ -1,9 +1,13 @@
 ##Skilvul 09-Bootstrap-5-Technical
 
 1. Apa itu CSS Framework?
+-> memberikan developer basic structure yang sudah termasuk grid, interactive UI, typografy, tooltips, elemnt, icons dll yang sudah siap dirangkai dan dapat digunakan ataupun dicostumisasi dengan mudah.
 
 2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+-> Tidak ada tailwind dsb
 
 3. Sebutkan beberapa CSS Framework selain Bootstrap
+-> Foundation, Bulma, Tailwind CSS, UIkit dsb
 
 4. Bagaimana tata cara penggunaan Bootstrap?
+-> Pertama dilakukan penyematan link css dan script sjnya pada html, selanjutnya dapat dilakukan pemanggilan apapun yang sudah diberi bootstrap dengan menambahkannya pada class tag html tersebut. Dalam kostumasinya dapat dilakukan seperti css biasa yaitu pada style tag ataupun eksteralnya.
